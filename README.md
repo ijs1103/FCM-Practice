@@ -36,6 +36,7 @@ FCM을 적용하기 위한 `AppDelegate` 세팅 코드
 
   - **Device-token Trust** : 각 원격 알림에서 end to end로 동작한다. 알림이 올바른 provider와 device 사이에서만 라우팅 된다. 해당 토큰은 device의 할당된 고유 식별자를 포함하는 NSData 인스턴스이기 때문에, token의 보안이 좋다.
   
+#### Remote Notification 흐름도
 
 <img width="1438" alt="image" src="https://user-images.githubusercontent.com/42196410/215315344-7040fd9a-f53e-478c-b819-bec284f9bcee.png">
 
