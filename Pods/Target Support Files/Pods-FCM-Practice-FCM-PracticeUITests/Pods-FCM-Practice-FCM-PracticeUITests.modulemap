@@ -1,0 +1,6 @@
+framework module Pods_FCM_Practice_FCM_PracticeUITests {
+  umbrella header "Pods-FCM-Practice-FCM-PracticeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
